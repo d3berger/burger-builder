@@ -1,0 +1,37 @@
+.ingredient {
+    width: 200px;
+    height: 20px;
+    border: 1px solid black;
+}
+
+.white-top {
+    background-color: wheat;
+}
+
+.white-bottom {
+    background-color: wheat;
+}
+
+.brown-top {
+    background-color: sienna;
+}
+
+.brown-bottom {
+    background-color: sienna;
+}
+
+.meat {
+    background-color: firebrick;
+}
+
+.cheese {
+    background-color: orange;
+}
+
+.lettuce {
+    background-color: green;
+}
+
+.tomato {
+    background-color: red;
+}
